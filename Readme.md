@@ -2,7 +2,7 @@
 # знакомство с git
 ## git add
 ## git commit
-## git status
+## git status z
 # команды bash
 ## работы с директориями
 * mkdir - создание папки
